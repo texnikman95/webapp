@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          salom Azimjon9515
+          salom Azimjon951salom dunyo
         </a>
       </header>
     </div>
