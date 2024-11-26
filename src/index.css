@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #333;
+  color: #fff;
+}
+
+nav a {
+  color: #61dafb;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+h1, h2 {
+  text-align: center;
+}
