@@ -112,7 +112,7 @@ function App() {
     <div className="App" align="center">
       <h1>Internet-do'kon</h1>
 
-      <div className="goods">
+      <div className="goods"align="center">
         {goods.map((item) => (
           <div className="cart" key={item.id}>
             <p className="name">{item.name}</p>
