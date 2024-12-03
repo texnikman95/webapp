@@ -54,7 +54,7 @@ const initialGoods = [
 ];
 
 function App() {
-  const [goods, setGoods] = useState(initialGoods);  // Mahsulotlar ro'yxati
+  const [goods] = useState(initialGoods);  // Mahsulotlar ro'yxati
   const [cart, setCart] = useState({});  // Savat tarkibi
 
   // LocalStorage'dan savatni yuklash
