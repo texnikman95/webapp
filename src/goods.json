@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Telefon",
+    "img": "phone.jpg",
+    "cost": 500000
+  },
+  {
+    "id": 2,
+    "name": "Noutbuk",
+    "img": "laptop.jpg",
+    "cost": 1500000
+  },
+  {
+    "id": 3,
+    "name": "Televizor",
+    "img": "tv.jpg",
+    "cost": 2000000
+  },
+  {
+    "id": 4,
+    "name": "Kameralar",
+    "img": "telefon.jpg",
+    "cost": 700000
+  }
+]

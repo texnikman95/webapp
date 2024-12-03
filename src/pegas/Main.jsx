@@ -3,6 +3,12 @@ import React from 'react';
 const Main = () => {
     const name = "Texnikman Off";
     const year = new Date().getFullYear();
+   
+     
+
+     
+    
+
   
     return (
       <div align="center">
